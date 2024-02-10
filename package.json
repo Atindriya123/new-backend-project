@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "Backend.js",
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "atindriya mondal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
